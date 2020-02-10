@@ -1,9 +1,9 @@
-var cacheName = 'navish-pwa';
+var cacheName = 'pwa-demo';
 var filesToCache = [
-  '/',
-  '/index.html',
-  '/style.css',
-  '/app.js',
+  '/pwa/',
+  '/pwa/index.html',
+  '/pwa/style.css',
+  '/pwa/app.js',
 ];
 
 /* Start the service worker and cache all of the app's content */
